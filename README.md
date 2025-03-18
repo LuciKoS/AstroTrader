@@ -2,6 +2,7 @@
 
 AstroTrader is an innovative, algorithmic trading bot that harnesses the power of the stars.  
 By analyzing the positions of celestial bodies like **Ceres** and **Jupiter** every hour, AstroTrader makes calculated decisions to sell and buy stocks—transforming cosmic signals into market moves.
+Your profit lies within the stars.
 
 ## Overview
 
